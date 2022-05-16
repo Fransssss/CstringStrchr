@@ -1,0 +1,3 @@
+C:/Users/XaveF/Documents/Practices/CstringStrchr/cmake-build-debug/CMakeFiles/CstringStrchr.dir
+C:/Users/XaveF/Documents/Practices/CstringStrchr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/XaveF/Documents/Practices/CstringStrchr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

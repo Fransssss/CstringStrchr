@@ -1,0 +1,18 @@
+# ninja log v5
+8	469	6743722388999610	build.ninja	7c36d8f7ada13d10
+1	1681	6743722485534357	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+1685	1969	6743722488353605	CstringStrchr.exe	6b1de9945411b548
+7	1724	6743729554706500	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+1725	2179	6743729559282085	CstringStrchr.exe	6b1de9945411b548
+7	525	6743729690001335	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+526	949	6743729694128283	CstringStrchr.exe	6b1de9945411b548
+7	549	6743729980555658	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+550	846	6743729983431708	CstringStrchr.exe	6b1de9945411b548
+5	694	6743730791965369	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+695	1010	6743730794979001	CstringStrchr.exe	6b1de9945411b548
+6	574	6743731201138347	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+575	830	6743731203539569	CstringStrchr.exe	6b1de9945411b548
+7	496	6743731472258573	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+497	737	6743731474639486	CstringStrchr.exe	6b1de9945411b548
+5	552	6743732143502432	CMakeFiles/CstringStrchr.dir/main.cpp.obj	9cce585e56a2f3b9
+553	839	6743732146314084	CstringStrchr.exe	6b1de9945411b548
