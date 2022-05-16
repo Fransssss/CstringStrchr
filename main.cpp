@@ -36,7 +36,7 @@ int main()
                 cout << charChr << " is not found in the string " << endl << endl;
             } else
             {
-                cout << charChr << " is found in the string at position with address " << &pos  << endl;
+                cout << charChr << " is found in the string at position with address " << &pos << endl << endl;
             }
         } else
         {
