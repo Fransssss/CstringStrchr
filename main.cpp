@@ -22,7 +22,7 @@ int main()
     cout << endl << "Your input is [ " << userIn << " ]" << endl;
     cout << "Would you like to locate a character in the string ? Y/N " << endl;
     cin >> choice;
-    while(choice != 'N')
+    while(choice != 'N')                          // keep asking while user doesn't choose 'N' to exit
     {
         if(choice == 'Y')
         {
