@@ -1,2 +1,10 @@
 # CstringStrchr
-Look for a character from user-input string 
+
+
+Goals
+- Look for a character from user-input string 
+
+
+Example Output
+
+
