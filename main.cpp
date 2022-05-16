@@ -1,6 +1,7 @@
-//
-// Created by XaveF on 5/15/2022.
-//
+// Title: Cstring - strchar
+// Purpose: Look for a character in a string and return its address
+// Author: Fransiskus Agapa
+// Have fun - Enjoy the process - Practices makes improvement
 
 #include <iostream>
 #include <cstring>
