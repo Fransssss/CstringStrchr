@@ -27,13 +27,13 @@ int main()
         if(choice == 'Y')
         {
             char charChr;
-            cout << "Input a character to lcoate: ";
+            cout << "Input a character to locate: ";
             cin >> charChr;
             char* pos;
             pos = strchr(userIn,charChr);           // strhr return a pointer of a char if found, if not then returns nullptr
             if(pos == nullptr)
             {
-                cout << charChr << " is not found in the string " << endl;
+                cout << charChr << " is not found in the string " << endl << endl;
             } else
             {
                 cout << charChr << " is found in the string at position with address " << &pos  << endl;
